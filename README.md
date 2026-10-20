@@ -64,18 +64,6 @@ Eid-card-For-mobile-
 
 ---
 
-## ▶️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Alshaimaa00/Eid-card-For-mobile-.git
-   ```
-2. Open `index.html` in your browser.
-3. That's it! No installation or build step needed.
-
-> An internet connection is needed for the confetti library, which loads from a CDN.
-
----
 
 ## 🎨 Design
 
